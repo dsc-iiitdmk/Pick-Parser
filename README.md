@@ -6,9 +6,10 @@ Resumes are a great example of unstructured data. Each resume has its unique sty
  # Prerequisites
 - Python
 - pdm miner
+```
 $ pip install pdfminer        # python 2
 $ pip install pdfminer.six    # python 3
-
+```
  
 
 
