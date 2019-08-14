@@ -4,7 +4,9 @@ Resumes are a great example of unstructured data. Each resume has its unique sty
  We want to make a Resume parser based on NLP, which can accept any resume in any style and can parse it to extract Names, Phone numbers, Email IDs, Education, Skills and some more information from resumes.
  
  ## Prerequisites
-- Python
+- Knowledge of Python
+- Knowledge of NLP
+## Installation
 - pdm miner
 ```
 $ pip install pdfminer        # python 2
