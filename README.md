@@ -5,7 +5,7 @@
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/dsc-iiitdmk/Pick-Parser/blob/master/LICENSE)
 [![Linkedin Follow](https://img.shields.io/static/v1?label=LinkedIn&message=Follow&color=blue)](https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool)
-[![Travis Integration](https://img.shields.io/static/v1?label=Travis&message=Build&color=brightgreen)](https://travis-ci.com/dsc-iiitdmk/Pick-Parser/builds/123509431)
+[![Travis Integration](https://img.shields.io/static/v1?label=Travis&message=Build&color=brightgreen)](https://travis-ci.com/dsc-iiitdmk/Pick-Parser)
 
 
 ## Introduction
