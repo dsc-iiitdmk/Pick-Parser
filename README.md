@@ -1,4 +1,5 @@
 # Pick-Parser
+![Pick Resume Parser](/images/resume_parsers.png)
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/dsc-iiitdmk/Pick-Parser/blob/master/LICENSE)
 
