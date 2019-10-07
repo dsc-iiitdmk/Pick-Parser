@@ -1,0 +1,81 @@
+Amit Sharma
+
+ 
+
+B.Tech in CSE , Mobile: +91-7049452169
+
+INTDM Kurnool Email: amitsharma.sgr99@gmail.com
+Andhra Pradesh
+
+Objective
+
+Seeking a position with an organization where I can contribute my skills for organization’s success
+and synchronize with new technology while being resourceful, innovative and flexible.
+
+Skill Set
+«= Django DBMS
+Web BackEnd,FrontEnd * Algorithms
+Python - Data Structures
+C, C++, Java, SQL | Ms-Office
+Platforms - UNIX, Windows. . .
+Assembly Programming- 8086 * Data Science with Python
+FPGA - basic programming Postgresq|
+HTML, CSS
+Technical Expertise
+
+Web Developer with Django Framework ( Python ),Data Science ( python )
+
+Academic Profile
+
+Degree Board / University Year CGPA / Percentage
+B.E [CSE] INTDM Kurnool 2016 - 2020 9.28/10
+XII ( CBSE ) CJS ( Singrauli ) 2016 93.2 %
+X (CBSE ) CJS ( Singrauli ) 2014 8.2/10
+
+Trainings
+=» Full Stack Web Development With Python/django=1.11
+
+JavaAchievements / POSITIONS OF RESPONSIBILITY
+
+= Stood 2nd overall in my Ist semester with CGPA 9.7.
+
+- 3rd Prize in Appathon held in a Fest at KITDM KANCHEEPURAM for making a web app.
+Joint secretary : Programming Club of college
+Project leader in the DBMS Project . working on making a student teacher interaction forum.
+Project leader in computer science course BY MAKING A TIC TAC TOE GAME using C.
+
+Projects
+
+B.Tech Semester Project
+1) Title: Student Teacher Interaction Forum.
+Link : https://github.com/amit988684/StudentForum
+Abstract: As a part of dbms project,website where students and teachers of our
+college can exist .where the teachers can share the assignment and the students can ask
+questions to anyone ,and anyone can answer the question using the
+comments . A calendar for reminders ,chatting app where teacher can interact with
+students personally, a profile (resume).
+Tool used: Django Team Size: 2
+B.Tech Mini Project
+2) Title: Social Website
+Link : https://github.com/amit988684/Social-Website
+Abstract: Making a social website like (twitter) where users can tweet, retweet,
+add comments ,and many more , It is a multi user app
+Tool used: Django Team Size: 1
+
+3) Title: Basic Website.
+
+Link :_https://github.com/amit988684/Forum Another Try
+Abstract: Forum App Basic Login/Logout , some more
+
+Tool used: Django Team Size: 1
+
+4) Title: Blog
+Link : https://github.com/amit988684/Blog
+Abstract: A Company Blogging app where all can make blogs. Add comments , approve or
+delete comments. Not a multi user blog .anyone can sign up, login and post.
+Tool used: Django Team Size: 1
+
+Personal Strengths
+
+Hard working and good at teamwork.
+Rapid at learning things.

@@ -1,1 +1,5 @@
-tensorflow==1.13.1
+spacy==2.0.16
+sklearn
+pytesseract
+pdf2image
+pillow
