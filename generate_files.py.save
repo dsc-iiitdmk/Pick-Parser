@@ -1,0 +1,18 @@
+from pdf_to_png import *
+import spacy
+import io
+
+base_path = "resumes/sumit"
+
+#generate_images_and_text_from_pdf(base_path+"/sumit.pdf",base_path)
+
+nlp = spacy.blank("en") 
+nlp = nlp.from_disk("model/")
+
+f = io.open(base_path+"/out_text.txt","r",encoding="utf-8")
+text = f.read()
+
+examples = nlp(text
+)
+
+print(examples.text.encode("utf-8"))

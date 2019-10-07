@@ -4,7 +4,7 @@ import sys
 from pdf2image import convert_from_path 
 import os 
 
-pytesseract.pytesseract.tesseract_cmd = "C:\\Users\\Ashutosh\\AppData\\Local\\Tesseract-OCR\\tesseract.exe"
+#pytesseract.pytesseract.tesseract_cmd = "/usr/share/tesseract-ocr/4.00/tessdata"
 
 def generate_images_and_text_from_pdf(PDF_file,target_dir):
     pages = convert_from_path(PDF_file, 500)
@@ -19,7 +19,7 @@ def generate_images_and_text_from_pdf(PDF_file,target_dir):
 
     outfile = target_dir+"/out_text.txt"
 
-    f = open(outfile, "w") 
+    f = open(outfile, "w",encoding="utf-8") 
 
     for i in range(1, filelimit + 1): 
         filename = target_dir+"/page_"+str(i)+".jpg"

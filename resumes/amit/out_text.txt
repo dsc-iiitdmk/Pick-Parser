@@ -9,15 +9,15 @@ Andhra Pradesh
 
 Objective
 
-Seeking a position with an organization where I can contribute my skills for organization’s success
+Seeking a position with an organization where I can contribute my skills for organizationâ€™s success
 and synchronize with new technology while being resourceful, innovative and flexible.
 
 Skill Set
-«= Django DBMS
+Â«= Django DBMS
 Web BackEnd,FrontEnd * Algorithms
 Python - Data Structures
 C, C++, Java, SQL | Ms-Office
-Platforms - UNIX, Windows. . .
+Platforms - UNIX, Windows. .
 Assembly Programming- 8086 * Data Science with Python
 FPGA - basic programming Postgresq|
 HTML, CSS
@@ -33,7 +33,7 @@ XII ( CBSE ) CJS ( Singrauli ) 2016 93.2 %
 X (CBSE ) CJS ( Singrauli ) 2014 8.2/10
 
 Trainings
-=» Full Stack Web Development With Python/django=1.11
+=Â» Full Stack Web Development With Python/django=1.11
 
 JavaAchievements / POSITIONS OF RESPONSIBILITY
 

@@ -3,3 +3,4 @@ sklearn
 pytesseract
 pdf2image
 pillow
+poppler

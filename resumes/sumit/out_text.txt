@@ -3,18 +3,18 @@ Sumit kr pandey
 Computer Science and
 Engineering
 
-i ) 22-12-1996
+eo 22-12-1996
 
-© Barabanki , India
+Â© Barabanki , India
 & +91 7060164964
 
 https://www.linkedin.com/in/sumitkumar-pandey-a672a2150/
 
-© pandeysumit22121997@gmail.com
+Â© pandeysumit22121997@gmail.com
 
 Languages
-=—_ Hindi eee ee
-= english e©ee@0e
+=_ Hindi @9eee
+= english eÂ©ee0e
 
 Skills
 
@@ -73,7 +73,7 @@ Using yolo algorithm car detection in an image(64*64)
 
 Using Saimese network and similarity function verify different faces
 
-Certification and training’s
+Certification and trainingâ€™s
 
 2018 MACHINE LEARNING Coursera(Andrew NG)
 Credential ID: 46R6SC97YT6V

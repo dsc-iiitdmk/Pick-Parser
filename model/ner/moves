@@ -1,0 +1,272 @@
+Å´transitions⁄[
+  {
+    "clas":0,
+    "move":1,
+    "label":"Companies worked at",
+    "name":"B-Companies worked at"
+  },
+  {
+    "clas":1,
+    "move":2,
+    "label":"Companies worked at",
+    "name":"I-Companies worked at"
+  },
+  {
+    "clas":2,
+    "move":3,
+    "label":"Companies worked at",
+    "name":"L-Companies worked at"
+  },
+  {
+    "clas":3,
+    "move":4,
+    "label":"Companies worked at",
+    "name":"U-Companies worked at"
+  },
+  {
+    "clas":4,
+    "move":1,
+    "label":"Skills",
+    "name":"B-Skills"
+  },
+  {
+    "clas":5,
+    "move":2,
+    "label":"Skills",
+    "name":"I-Skills"
+  },
+  {
+    "clas":6,
+    "move":3,
+    "label":"Skills",
+    "name":"L-Skills"
+  },
+  {
+    "clas":7,
+    "move":4,
+    "label":"Skills",
+    "name":"U-Skills"
+  },
+  {
+    "clas":8,
+    "move":1,
+    "label":"Graduation Year",
+    "name":"B-Graduation Year"
+  },
+  {
+    "clas":9,
+    "move":2,
+    "label":"Graduation Year",
+    "name":"I-Graduation Year"
+  },
+  {
+    "clas":10,
+    "move":3,
+    "label":"Graduation Year",
+    "name":"L-Graduation Year"
+  },
+  {
+    "clas":11,
+    "move":4,
+    "label":"Graduation Year",
+    "name":"U-Graduation Year"
+  },
+  {
+    "clas":12,
+    "move":1,
+    "label":"College Name",
+    "name":"B-College Name"
+  },
+  {
+    "clas":13,
+    "move":2,
+    "label":"College Name",
+    "name":"I-College Name"
+  },
+  {
+    "clas":14,
+    "move":3,
+    "label":"College Name",
+    "name":"L-College Name"
+  },
+  {
+    "clas":15,
+    "move":4,
+    "label":"College Name",
+    "name":"U-College Name"
+  },
+  {
+    "clas":16,
+    "move":1,
+    "label":"Degree",
+    "name":"B-Degree"
+  },
+  {
+    "clas":17,
+    "move":2,
+    "label":"Degree",
+    "name":"I-Degree"
+  },
+  {
+    "clas":18,
+    "move":3,
+    "label":"Degree",
+    "name":"L-Degree"
+  },
+  {
+    "clas":19,
+    "move":4,
+    "label":"Degree",
+    "name":"U-Degree"
+  },
+  {
+    "clas":20,
+    "move":1,
+    "label":"Designation",
+    "name":"B-Designation"
+  },
+  {
+    "clas":21,
+    "move":2,
+    "label":"Designation",
+    "name":"I-Designation"
+  },
+  {
+    "clas":22,
+    "move":3,
+    "label":"Designation",
+    "name":"L-Designation"
+  },
+  {
+    "clas":23,
+    "move":4,
+    "label":"Designation",
+    "name":"U-Designation"
+  },
+  {
+    "clas":24,
+    "move":1,
+    "label":"Email Address",
+    "name":"B-Email Address"
+  },
+  {
+    "clas":25,
+    "move":2,
+    "label":"Email Address",
+    "name":"I-Email Address"
+  },
+  {
+    "clas":26,
+    "move":3,
+    "label":"Email Address",
+    "name":"L-Email Address"
+  },
+  {
+    "clas":27,
+    "move":4,
+    "label":"Email Address",
+    "name":"U-Email Address"
+  },
+  {
+    "clas":28,
+    "move":1,
+    "label":"Location",
+    "name":"B-Location"
+  },
+  {
+    "clas":29,
+    "move":2,
+    "label":"Location",
+    "name":"I-Location"
+  },
+  {
+    "clas":30,
+    "move":3,
+    "label":"Location",
+    "name":"L-Location"
+  },
+  {
+    "clas":31,
+    "move":4,
+    "label":"Location",
+    "name":"U-Location"
+  },
+  {
+    "clas":32,
+    "move":1,
+    "label":"Name",
+    "name":"B-Name"
+  },
+  {
+    "clas":33,
+    "move":2,
+    "label":"Name",
+    "name":"I-Name"
+  },
+  {
+    "clas":34,
+    "move":3,
+    "label":"Name",
+    "name":"L-Name"
+  },
+  {
+    "clas":35,
+    "move":4,
+    "label":"Name",
+    "name":"U-Name"
+  },
+  {
+    "clas":36,
+    "move":1,
+    "label":"Years of Experience",
+    "name":"B-Years of Experience"
+  },
+  {
+    "clas":37,
+    "move":2,
+    "label":"Years of Experience",
+    "name":"I-Years of Experience"
+  },
+  {
+    "clas":38,
+    "move":3,
+    "label":"Years of Experience",
+    "name":"L-Years of Experience"
+  },
+  {
+    "clas":39,
+    "move":4,
+    "label":"Years of Experience",
+    "name":"U-Years of Experience"
+  },
+  {
+    "clas":40,
+    "move":1,
+    "label":"UNKNOWN",
+    "name":"B-UNKNOWN"
+  },
+  {
+    "clas":41,
+    "move":2,
+    "label":"UNKNOWN",
+    "name":"I-UNKNOWN"
+  },
+  {
+    "clas":42,
+    "move":3,
+    "label":"UNKNOWN",
+    "name":"L-UNKNOWN"
+  },
+  {
+    "clas":43,
+    "move":4,
+    "label":"UNKNOWN",
+    "name":"U-UNKNOWN"
+  },
+  {
+    "clas":44,
+    "move":5,
+    "label":"",
+    "name":"O"
+  }
+]
