@@ -1,32 +1,36 @@
 
 
-Name:
-Ayushi Srivastava
+Skills:
+CSS (Less than 1 year), DHCP (Less than 1 year), HSRP. (Less than 1 year), routing protocols.(Less than 1 year), Voip (2 years)
 
 
-Degree:
-B.Tech
-
-
-Designation:
-Senior Analyst
+Location:
+Delhi
 
 
 Companies worked at:
 Cisco
 
 
-Location:
-New
+Degree:
+B.Tech
 
 
-College Name:
-HMR Institute of Technology and Management in Electronics and Communication
+Name:
+Ayushi Srivastava
 
 
-Skills:
-CSS (Less than 1 year), DHCP (Less than 1 year), HSRP. (Less than 1 year), routing protocols.(Less than 1 year), Voip (2 years)
+Graduation Year:
+2016
+
+
+Designation:
+Senior Analyst
 
 
 Email Address:
 indeed.com/r/Ayushi-Srivastava/2bf1c4b058984738
+
+
+College Name:
+HMR Institute of Technology and Management in Electronics and Communication

@@ -1,42 +1,39 @@
 
 
-Graduation Year:
-2014
+Skills:
+ACCESS (Less than 1 year), BUYING (Less than 1 year), BUYING/PROCUREMENT (Less than 1year), CSS (Less than 1 year), DATABASE (Less than 1 year)
+
+
+Location:
+Delhi
+
+
+Companies worked at:
+ORACLE SQL
+
+
+Degree:
+CBSE
+BCA
+MCA
 
 
 Name:
 Dipesh Gulati
 
 
-Degree:
-MCA
-CBSE
-BCA
+Graduation Year:
+2014
 
 
 Designation:
-coordinator of CODE HUNTER at
-Co-coordinator of CODE HUNTER at
-
-
-Companies worked at:
-ORACLE SQL -
-
-
-Location:
-Delhi
-CSS
-
-
-College Name:
-Punjab Technical University
-Bharati Vidyapeeth University
-Crescent Public School
-
-
-Skills:
-ACCESS (Less than 1 year), BUYING (Less than 1 year), BUYING/PROCUREMENT (Less than 1year), CSS (Less than 1 year), DATABASE (Less than 1 year)
+at CGC FEST
 
 
 Email Address:
 indeed.com/r/Dipesh-Gulati/17a483e9e19f9106
+
+
+College Name:
+Bharati Vidyapeeth University
+Punjab Technical University

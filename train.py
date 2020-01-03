@@ -16,6 +16,7 @@ from spacy.gold import GoldParse
 from spacy.scorer import Scorer
 from spacy.util import minibatch, compounding
 from sklearn.metrics import accuracy_score
+
 def convert_dataturks_to_spacy(dataturks_JSON_FilePath):
     try:
         training_data = []

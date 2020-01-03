@@ -1,30 +1,39 @@
 
 
-Name:
-Ashok Kunam
+Skills:
+database (Less than 1 year), Git (Less than 1 year), Java (Less than 1 year), JIRA (Less than 1year), life cycle (Less than 1 year)
+
+
+Companies worked at:
+Microsoft
+Cisco
+Oracle
 
 
 Degree:
 Bachelor of Technology in ECE
 
 
+Name:
+Ashok Kunam
+
+
+Graduation Year:
+2014
+
+
+Years of Experience:
+2.5 years
+
+
 Designation:
-Software Development Life
 Team Lead
-
-
-Companies worked at:
-Microsoft
-
-
-Skills:
-• Programming Languages: Java & J2EE, PHP, Apache Nifi, SOAP Web Services, Rest Web Services,Jackson-2• Framework's: Spring, Hibernate, Junit, Mockito• Database: MYSQL, SQL Server, Oracle• App/Web Servers: Tomcat, Apache
-database (Less than 1 year), Git (Less than 1 year), Java (Less than 1 year), JIRA (Less than 1year), life cycle (Less than 1 year)
-
-
-College Name:
-Jawaharlal Nehru Technology University
 
 
 Email Address:
 indeed.com/r/Ashok-Kunam/7aac8767aacf10a0
+iTalent
+
+
+College Name:
+Jawaharlal Nehru Technology University

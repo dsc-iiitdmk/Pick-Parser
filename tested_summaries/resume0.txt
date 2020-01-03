@@ -1,41 +1,40 @@
 
 
-Graduation Year:
-2013
+Skills:
+C (Less than 1 year), Database (Less than 1 year), Database Management (Less than 1 year),Database Management System (Less than 1 year), Java (Less than 1 year)
 
 
-Name:
-Abhishek Jha
-
-
-Degree:
-10th
-12th in Mathematics
-B.E in Information science and engineering
-
-
-Designation:
-Application Development Associate
+Location:
+Bengaluru
 
 
 Companies worked at:
 Accenture
 
 
-Location:
-Bangalore
-Bengaluru
+Degree:
+B.E in Information science and engineering
+12th in Mathematics
+10th
 
 
-College Name:
-B.v.b college of engineering and technology
-Kendriya Vidyalaya
+Name:
+Abhishek Jha
 
 
-Skills:
-C (Less than 1 year), Database (Less than 1 year), Database Management (Less than 1 year),Database Management System (Less than 1 year), Java (Less than 1 year)
-• Honest and Hard-Working• Tolerant and Flexible to Different Situations• Polite and Calm• Team-Player
+Graduation Year:
+2017
+
+
+Designation:
+Application Development Associate
 
 
 Email Address:
 indeed.com/r/Abhishek-Jha/10e7a8cb732bc43a
+
+
+College Name:
+Kendriya Vidyalaya
+B.v.b college of engineering and technology
+Woodbine modern school
